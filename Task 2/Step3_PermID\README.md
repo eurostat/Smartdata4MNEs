@@ -1,0 +1,1 @@
+This folder contains the Python programs to scrap formatted data from Open PermID. PermID offers an API, however to reproduce the summarised information one has to obtain the data for all entries and re-create the table. Instead, we scrap the formatted data as is.
