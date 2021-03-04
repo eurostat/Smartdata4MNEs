@@ -2,4 +2,4 @@ The files in this directory download data from various online sources. All files
 
 The Golden Copy needed in Step 1can be downloaded directly from GLEIF: https://www.gleif.org/en/lei-data/gleif-golden-copy/download-the-golden-copy 
 
-A "sample" output can be found in the appropriate folder.
+A "sample" output can be found in each appropriate folder.
