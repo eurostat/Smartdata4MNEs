@@ -1,0 +1,518 @@
+Var,CatVar,Type,EGR
+Affiliation,General Relationships,Character,NA
+AreaServed1,Operations,Character,NA
+AreaServed2,Operations,Character,NA
+AreaServed3,Operations,Character,NA
+ArtworkInCollection,Various,Character,NA
+Assets1,Financials,Numeric,GEG_T_ASSET
+Assets2,Financials,Numeric,GEG_T_ASSET
+AssetsCurrency,Financials,Character,GEG_T_ASSET_CUR_CODE
+AssetsUnderManagement,Financials,Numeric,GEG_T_ASSET
+AssetsUnderManagementCurrency,Financials,Character,GEG_T_ASSET_CUR_CODE
+AssetsYear,Financials,Date,NA
+AssociatedWith,General Relationships,Character,NA
+Award,Various,Character,NA
+BaFinInstitute,Identifiers,Numeric,NA
+BiblNatFranc,Identifiers,Numeric,NA
+BIC,Identifiers,Numeric,NA
+Blog,Social Networking,Character,NA
+BoardMembers,Corporate Governance,Character,NA
+Brand,Operations,Character,NA
+Brittanica,Identifiers,Character,NA
+Brockhaus,Identifiers,Character,NA
+BusinessDivision,Operations,Character,NA
+CatalanaEncyc,Identifiers,Numeric,NA
+Chairperson,Corporate Governance,Character,NA
+City1,General Information,Character,LEU_CITY_NAME
+City2,General Information,Character,LEU_CITY_NAME
+CommonsCat,Identifiers,Character,NA
+CompaniesHouse,Identifiers,Numeric,NA
+CompanyHistory,Various,Character,NA
+Country1,General Information,Character,LEU_COUNTRY_CODE
+Country2,General Information,Character,LEU_COUNTRY_CODE
+CrossRef,Identifiers,Numeric,NA
+Director,Corporate Governance,Character,NA
+Divisions,Operations,Character,NA
+EBIT,Financials,Numeric,NA
+EBITCurrency,Financials,Character,NA
+EDGAR_Accounts payable,EDGAR,Numeric,NA
+EDGAR_Accounts payable and accrued liabilities,EDGAR,Numeric,NA
+EDGAR_Accounts receivable – net,EDGAR,Numeric,NA
+"EDGAR_Accounts receivable, less allowance for doubtful accounts of $14 and $15, respectively",EDGAR,Numeric,NA
+"EDGAR_Accounts receivable, less allowance for doubtful accounts of $173 and $169, respectively",EDGAR,Numeric,NA
+"EDGAR_Accounts receivable, net",EDGAR,Numeric,NA
+"EDGAR_Accounts receivable, net of allowance for doubtful accounts of $18.4 and $17.4, respectively",EDGAR,Numeric,NA
+EDGAR_Accrued compensation and benefits,EDGAR,Numeric,NA
+EDGAR_Accrued liabilities (Note 8),EDGAR,Numeric,NA
+EDGAR_Accrued liabilities and other,EDGAR,Numeric,NA
+EDGAR_Accrued taxes,EDGAR,Numeric,NA
+EDGAR_AccruedLiabilitiesCurrent,EDGAR,Numeric,NA
+EDGAR_Accumulated deficit,EDGAR,Numeric,NA
+EDGAR_Accumulated other comprehensive income (loss),EDGAR,Numeric,NA
+EDGAR_Accumulated other comprehensive income (loss) (“AOCI”),EDGAR,Numeric,NA
+EDGAR_Accumulated other comprehensive loss,EDGAR,Numeric,NA
+EDGAR_Accumulated other comprehensive loss (Note 16),EDGAR,Numeric,NA
+EDGAR_Additional paid-in capital,EDGAR,Numeric,NA
+EDGAR_Amortization,EDGAR,Numeric,NA
+EDGAR_Amortization and impairment of intangible assets,EDGAR,Numeric,NA
+EDGAR_Amortization of intangible assets,EDGAR,Numeric,NA
+EDGAR_Amounts attributable to Aptiv:,EDGAR,Numeric,NA
+"EDGAR_Amounts attributable to Johnson Controls, Inc. common shareholders",EDGAR,Numeric,NA
+EDGAR_Assets,EDGAR,Numeric,NA
+EDGAR_Assets held for sale,EDGAR,Numeric,NA
+EDGAR_Basic (in dollars per share),EDGAR,Numeric,NA
+EDGAR_Basic earnings per share,EDGAR,Numeric,NA
+EDGAR_Basic earnings per share (in dollars per share),EDGAR,Numeric,NA
+EDGAR_Basic earnings per share from continuing operations,EDGAR,Numeric,NA
+EDGAR_Basic earnings per share from continuing operations (in dollars per share),EDGAR,Numeric,NA
+EDGAR_Basic earnings per share from discontinued operations,EDGAR,Numeric,NA
+EDGAR_Basic earnings per share from discontinued operations (in dollars per share),EDGAR,Numeric,NA
+EDGAR_Basic net income per share attributable to Aon shareholders,EDGAR,Numeric,NA
+EDGAR_Basic net income per share attributable to Aon shareholders (in dollars per share),EDGAR,Numeric,NA
+"EDGAR_Basic net income per share attributable to Aon shareholders, continuing operations (in dollars per share)",EDGAR,Numeric,NA
+"EDGAR_Basic net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)",EDGAR,Numeric,NA
+EDGAR_Basic net income per share attributable to Aptiv,EDGAR,Numeric,NA
+EDGAR_Basic net income per share:,EDGAR,Numeric,NA
+EDGAR_Basic shares outstanding (in shares),EDGAR,Numeric,NA
+EDGAR_Basic shares used in computing earnings per share (in shares),EDGAR,Numeric,NA
+EDGAR_Capital in excess of par value,EDGAR,Numeric,NA
+EDGAR_Cash and cash equivalents,EDGAR,Numeric,NA
+"EDGAR_Commissions, transportation and other",EDGAR,Numeric,NA
+EDGAR_Commitments and Contingencies,EDGAR,Numeric,NA
+EDGAR_Commitments and contingencies (Note 13),EDGAR,Numeric,NA
+EDGAR_Commitments and contingencies (Note 19),EDGAR,Numeric,NA
+EDGAR_Commitments and contingencies (Note 20),EDGAR,Numeric,NA
+EDGAR_Common stock,EDGAR,Numeric,NA
+"EDGAR_Common stock, $0.01 par value; 1,000,000,000 shares authorized; 206,767,529 and 201,051,291 shares issued as of December 31, 2019 and December 31, 2018, respectively",EDGAR,Numeric,NA
+EDGAR_Compensation and benefits,EDGAR,Numeric,NA
+EDGAR_CONSOLIDATED STATEMENTS OF OPERATIONS [Abstract],EDGAR,Numeric,NA
+EDGAR_Contract assets,EDGAR,Numeric,NA
+EDGAR_Contract liabilities,EDGAR,Numeric,NA
+EDGAR_Cost of Goods and Services Sold,EDGAR,Numeric,NA
+EDGAR_Cost of sales,EDGAR,Numeric,NA
+"EDGAR_Cost of sales, exclusive of depreciation and amortization",EDGAR,Numeric,NA
+EDGAR_Cost reduction programs and other charges,EDGAR,Numeric,NA
+EDGAR_Cruise,EDGAR,Numeric,NA
+EDGAR_Cruise and tour,EDGAR,Numeric,NA
+EDGAR_Cruise onboard and other,EDGAR,Numeric,NA
+EDGAR_Cruise passenger ticket,EDGAR,Numeric,NA
+EDGAR_Current assets,EDGAR,Numeric,NA
+EDGAR_Current Assets,EDGAR,Numeric,NA
+EDGAR_Current assets:,EDGAR,Numeric,NA
+EDGAR_Current liabilities,EDGAR,Numeric,NA
+EDGAR_Current Liabilities,EDGAR,Numeric,NA
+EDGAR_Current liabilities:,EDGAR,Numeric,NA
+EDGAR_Current portion of long-term debt,EDGAR,Numeric,NA
+EDGAR_Customer deposits,EDGAR,Numeric,NA
+EDGAR_Deferred credits,EDGAR,Numeric,NA
+EDGAR_Deferred income taxes,EDGAR,Numeric,NA
+EDGAR_Deferred revenue,EDGAR,Numeric,NA
+EDGAR_Deferred tax assets,EDGAR,Numeric,NA
+EDGAR_Deferred tax liabilities,EDGAR,Numeric,NA
+EDGAR_Depreciation and amortization,EDGAR,Numeric,NA
+EDGAR_Depreciation of fixed assets,EDGAR,Numeric,NA
+EDGAR_Diluted (in dollars per share),EDGAR,Numeric,NA
+EDGAR_Diluted earnings per share,EDGAR,Numeric,NA
+EDGAR_Diluted earnings per share (in dollars per share),EDGAR,Numeric,NA
+EDGAR_Diluted earnings per share from continuing operations,EDGAR,Numeric,NA
+EDGAR_Diluted earnings per share from continuing operations (in dollars per share),EDGAR,Numeric,NA
+EDGAR_Diluted earnings per share from discontinued operations,EDGAR,Numeric,NA
+EDGAR_Diluted earnings per share from discontinued operations (in dollars per share),EDGAR,Numeric,NA
+EDGAR_Diluted net income per share attributable to Aon shareholders,EDGAR,Numeric,NA
+EDGAR_Diluted net income per share attributable to Aon shareholders (in dollars per share),EDGAR,Numeric,NA
+"EDGAR_Diluted net income per share attributable to Aon shareholders, continuing operations (in dollars per share)",EDGAR,Numeric,NA
+"EDGAR_Diluted net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)",EDGAR,Numeric,NA
+EDGAR_Diluted net income per share attributable to Aptiv,EDGAR,Numeric,NA
+EDGAR_Diluted net income per share:,EDGAR,Numeric,NA
+EDGAR_Diluted shares outstanding (in shares),EDGAR,Numeric,NA
+EDGAR_Diluted shares used in computing earnings per share (in shares),EDGAR,Numeric,NA
+"EDGAR_Disposal Group, Including Discontinued Operation, Assets, Current",EDGAR,Numeric,NA
+"EDGAR_Disposal Group, Including Discontinued Operation, Liabilities, Current",EDGAR,Numeric,NA
+EDGAR_Earnings (loss) before interest and income taxes,EDGAR,Numeric,NA
+EDGAR_Earnings per share,EDGAR,Numeric,NA
+EDGAR_Earnings Per Share,EDGAR,Numeric,NA
+EDGAR_Equity,EDGAR,Numeric,NA
+EDGAR_Equity income,EDGAR,Numeric,NA
+EDGAR_Equity income (loss),EDGAR,Numeric,NA
+"EDGAR_Equity income, net of tax",EDGAR,Numeric,NA
+EDGAR_Equity investments,EDGAR,Numeric,NA
+EDGAR_Expenses,EDGAR,Numeric,NA
+EDGAR_Fiduciary assets,EDGAR,Numeric,NA
+EDGAR_Fiduciary liabilities,EDGAR,Numeric,NA
+"EDGAR_Fixed assets, net",EDGAR,Numeric,NA
+EDGAR_Food,EDGAR,Numeric,NA
+EDGAR_Fuel,EDGAR,Numeric,NA
+"EDGAR_Gains on fuel derivatives, net",EDGAR,Numeric,NA
+EDGAR_Goodwill,EDGAR,Numeric,NA
+EDGAR_Goodwill (Note 7),EDGAR,Numeric,NA
+EDGAR_Goodwill and trademark impairment,EDGAR,Numeric,NA
+EDGAR_Gross profit,EDGAR,Numeric,NA
+EDGAR_Gross Profit,EDGAR,Numeric,NA
+EDGAR_Impairment of other intangible assets,EDGAR,Numeric,NA
+EDGAR_Income (loss) attributable to noncontrolling interests,EDGAR,Numeric,NA
+EDGAR_Income (loss) before income taxes,EDGAR,Numeric,NA
+EDGAR_Income (Loss) Before Income Taxes,EDGAR,Numeric,NA
+EDGAR_Income Before Income Taxes,EDGAR,Numeric,NA
+EDGAR_Income from continuing operations,EDGAR,Numeric,NA
+EDGAR_Income From Continuing Operations (Including Noncontrolling Interests),EDGAR,Numeric,NA
+EDGAR_Income from continuing operations attributable to noncontrolling interests,EDGAR,Numeric,NA
+EDGAR_Income from continuing operations before equity income,EDGAR,Numeric,NA
+EDGAR_Income From Continuing Operations Before Equity Investments,EDGAR,Numeric,NA
+EDGAR_Income from continuing operations before income taxes,EDGAR,Numeric,NA
+EDGAR_Income from continuing operations before income taxes and equity income,EDGAR,Numeric,NA
+EDGAR_Income From Continuing Operations Before Income Taxes and Equity Investments,EDGAR,Numeric,NA
+"EDGAR_Income from continuing operations, per basic share",EDGAR,Numeric,NA
+"EDGAR_Income from continuing operations, per diluted share",EDGAR,Numeric,NA
+EDGAR_Income from discontinued operations,EDGAR,Numeric,NA
+EDGAR_Income from discontinued operations attributable to noncontrolling interests,EDGAR,Numeric,NA
+"EDGAR_Income from discontinued operations, net of tax",EDGAR,Numeric,NA
+"EDGAR_Income from discontinued operations, net of tax (Note 3)",EDGAR,Numeric,NA
+"EDGAR_Income from discontinued operations, per basic share",EDGAR,Numeric,NA
+"EDGAR_Income from discontinued operations, per diluted share",EDGAR,Numeric,NA
+EDGAR_Income from equity investments,EDGAR,Numeric,NA
+EDGAR_Income Statement [Abstract],EDGAR,Numeric,NA
+EDGAR_Income tax expense,EDGAR,Numeric,NA
+"EDGAR_Income Tax Expense, Net",EDGAR,Numeric,NA
+EDGAR_Income tax provision (benefit),EDGAR,Numeric,NA
+EDGAR_Income taxes on continuing operations,EDGAR,Numeric,NA
+EDGAR_Information technology,EDGAR,Numeric,NA
+"EDGAR_Intangible assets, net",EDGAR,Numeric,NA
+"EDGAR_Intangible assets, net (Note 7)",EDGAR,Numeric,NA
+EDGAR_Interest expense,EDGAR,Numeric,NA
+EDGAR_Interest expense – net,EDGAR,Numeric,NA
+"EDGAR_Interest expense, net of capitalized interest",EDGAR,Numeric,NA
+EDGAR_Interest income,EDGAR,Numeric,NA
+EDGAR_Inventories,EDGAR,Numeric,NA
+EDGAR_Inventories (Note 3),EDGAR,Numeric,NA
+EDGAR_Investments in affiliates,EDGAR,Numeric,NA
+EDGAR_Investments in partially-owned affiliates,EDGAR,Numeric,NA
+EDGAR_Less: Net income attributable to noncontrolling interests,EDGAR,Numeric,NA
+EDGAR_Less: noncontrolling interests from continuing operations,EDGAR,Numeric,NA
+EDGAR_Less: noncontrolling interests from discontinued operations,EDGAR,Numeric,NA
+"EDGAR_Less: Treasury stock, at cost (2019 – 17,632,318 shares and 2018 – 4,068,642 shares)",EDGAR,Numeric,NA
+EDGAR_Liabilities and Equity,EDGAR,Numeric,NA
+EDGAR_Liabilities and Shareholders' Equity,EDGAR,Numeric,NA
+EDGAR_Liabilities held for sale,EDGAR,Numeric,NA
+EDGAR_Liabilities of assets held for sale,EDGAR,Numeric,NA
+EDGAR_Linde plc Shareholders’ Equity:,EDGAR,Numeric,NA
+EDGAR_Long-term assets:,EDGAR,Numeric,NA
+EDGAR_Long-term debt,EDGAR,Numeric,NA
+EDGAR_Long-Term Debt,EDGAR,Numeric,NA
+EDGAR_Long-term debt (Note 11),EDGAR,Numeric,NA
+"EDGAR_Long-term debt, less current maturities",EDGAR,Numeric,NA
+EDGAR_Long-term liabilities,EDGAR,Numeric,NA
+EDGAR_Long-term liabilities:,EDGAR,Numeric,NA
+EDGAR_Loss on extinguishment of debt,EDGAR,Numeric,NA
+EDGAR_Net financing charges,EDGAR,Numeric,NA
+EDGAR_Net gain on sale of businesses,EDGAR,Numeric,NA
+EDGAR_Net income,EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net Income,EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net Income – Linde plc,EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net Income (Including Noncontrolling Interests),EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net income (loss),EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net income (loss) attributable to Adient,EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net income (loss) from discontinued operations,EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net income attributable to Aon shareholders,EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net income attributable to Aptiv,EDGAR,Numeric,GEG_TURNOV
+"EDGAR_Net Income Attributable to Gardner Denver Holdings, Inc.",EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net income attributable to Johnson Controls,EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net income attributable to noncontrolling interest,EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net income from continuing operations,EDGAR,Numeric,GEG_TURNOV
+"EDGAR_Net pension and OPEB cost (benefit), excluding service cost",EDGAR,Numeric,GEG_TURNOV
+EDGAR_Net sales,EDGAR,Numeric,NA
+EDGAR_Net Sales,EDGAR,Numeric,NA
+EDGAR_Non-current operating lease liabilities,EDGAR,Numeric,NA
+EDGAR_Noncontrolling interest,EDGAR,Numeric,NA
+EDGAR_Noncontrolling interests,EDGAR,Numeric,NA
+EDGAR_Noncurrent assets held for sale,EDGAR,Numeric,NA
+EDGAR_Noncurrent liabilities held for sale,EDGAR,Numeric,NA
+EDGAR_Nonoperating Income (Expense),EDGAR,Numeric,NA
+EDGAR_Onboard and other,EDGAR,Numeric,NA
+EDGAR_Operating costs and expenses,EDGAR,Numeric,NA
+EDGAR_Operating expenses:,EDGAR,Numeric,NA
+EDGAR_Operating income,EDGAR,Numeric,NA
+EDGAR_Operating Income,EDGAR,Numeric,NA
+EDGAR_Operating lease right-of-use assets,EDGAR,Numeric,NA
+"EDGAR_Operating Lease, Liability, Noncurrent",EDGAR,Numeric,NA
+"EDGAR_Operating Lease, Right-of-Use Asset",EDGAR,Numeric,NA
+EDGAR_Operating Profit,EDGAR,Numeric,NA
+EDGAR_Ordinary A shares,EDGAR,Numeric,NA
+EDGAR_Ordinary shares,EDGAR,Numeric,NA
+EDGAR_Ordinary shares - $0.01 nominal value Authorized: 750 shares (issued: 2019 - 232.1; 2018 - 240.1),EDGAR,Numeric,NA
+"EDGAR_Ordinary shares (€0.001 par value, authorized 1,750,000,000 shares, 2019 issued: 552,012,862 ordinary shares; 2018 issued: 551,310,272 ordinary shares)",EDGAR,Numeric,NA
+"EDGAR_Ordinary shares issued, par value $0.001; 500,000,000 shares authorized 93,620,714 shares issued and outstanding at September 30, 2019",EDGAR,Numeric,NA
+"EDGAR_Ordinary shares, $0.01 par value per share, 1,200,000,000 shares authorized, 255,288,240 and 259,991,022 issued and outstanding as of December 31, 2019 and 2018, respectively",EDGAR,Numeric,NA
+EDGAR_Other assets,EDGAR,Numeric,NA
+EDGAR_Other Assets,EDGAR,Numeric,NA
+EDGAR_Other current assets,EDGAR,Numeric,NA
+EDGAR_Other current assets (Note 4),EDGAR,Numeric,NA
+EDGAR_Other current liabilities,EDGAR,Numeric,NA
+"EDGAR_Other expense, net",EDGAR,Numeric,NA
+EDGAR_Other general expense,EDGAR,Numeric,NA
+EDGAR_Other income (expense),EDGAR,Numeric,NA
+"EDGAR_Other income (expense), net",EDGAR,Numeric,NA
+EDGAR_Other income (expenses) – net,EDGAR,Numeric,NA
+"EDGAR_Other income, net",EDGAR,Numeric,NA
+EDGAR_Other intangible assets - net,EDGAR,Numeric,NA
+EDGAR_Other intangible assets – net,EDGAR,Numeric,NA
+"EDGAR_Other intangible assets, net",EDGAR,Numeric,NA
+EDGAR_Other Intangibles,EDGAR,Numeric,NA
+EDGAR_Other long-term assets,EDGAR,Numeric,NA
+EDGAR_Other long-term assets (Note 4),EDGAR,Numeric,NA
+EDGAR_Other long-term liabilities,EDGAR,Numeric,NA
+EDGAR_Other Long-Term Liabilities,EDGAR,Numeric,NA
+EDGAR_Other long-term liabilities (Note 8),EDGAR,Numeric,NA
+EDGAR_Other non-current assets,EDGAR,Numeric,NA
+EDGAR_Other non-current liabilities,EDGAR,Numeric,NA
+EDGAR_Other noncurrent assets,EDGAR,Numeric,NA
+EDGAR_Other noncurrent liabilities,EDGAR,Numeric,NA
+"EDGAR_Other operating expense, net",EDGAR,Numeric,NA
+EDGAR_Other pension income (expense),EDGAR,Numeric,NA
+EDGAR_Other ship operating,EDGAR,Numeric,NA
+EDGAR_OtherLiabilitiesNoncurrent,EDGAR,Numeric,NA
+EDGAR_Payroll and related,EDGAR,Numeric,NA
+EDGAR_Pension and postretirement benefits,EDGAR,Numeric,NA
+EDGAR_Pension benefit obligations,EDGAR,Numeric,NA
+"EDGAR_Pension, other postretirement, and postemployment liabilities",EDGAR,Numeric,NA
+EDGAR_Pensions and other postretirement benefits,EDGAR,Numeric,NA
+EDGAR_Per Share Data – Linde plc Shareholders,EDGAR,Numeric,NA
+EDGAR_Preferred shares,EDGAR,Numeric,NA
+"EDGAR_Preferred shares issued, par value $0.001; 100,000,000 shares authorized zero shares issued and outstanding at September 30, 2019",EDGAR,Numeric,NA
+"EDGAR_Preferred shares, $0.01 par value per share, 50,000,000 shares authorized, none issued and outstanding",EDGAR,Numeric,NA
+EDGAR_Premises,EDGAR,Numeric,NA
+EDGAR_Prepaid and other current assets,EDGAR,Numeric,NA
+EDGAR_Prepaid expenses and other,EDGAR,Numeric,NA
+EDGAR_Prepaid pension,EDGAR,Numeric,NA
+EDGAR_Products and Systems [Member],EDGAR,Numeric,NA
+"EDGAR_Property and Equipment, Net",EDGAR,Numeric,NA
+"EDGAR_Property, net (Note 6)",EDGAR,Numeric,NA
+"EDGAR_Property, plant and equipment - net",EDGAR,Numeric,NA
+"EDGAR_Property, plant and equipment – net",EDGAR,Numeric,NA
+"EDGAR_Property, plant and equipment, net of accumulated depreciation of $298.4 and $250.0, respectively",EDGAR,Numeric,NA
+EDGAR_Provision (benefit) for income taxes,EDGAR,Numeric,NA
+"EDGAR_Receivables, net",EDGAR,Numeric,NA
+EDGAR_Redeemable noncontrolling interests,EDGAR,Numeric,NA
+EDGAR_Research and development,EDGAR,Numeric,NA
+EDGAR_Restricted cash,EDGAR,Numeric,NA
+EDGAR_Restructuring,EDGAR,Numeric,NA
+EDGAR_Restructuring and impairment costs,EDGAR,Numeric,NA
+EDGAR_Restructuring reserve,EDGAR,Numeric,NA
+EDGAR_Retained earnings,EDGAR,Numeric,NA
+EDGAR_Retained earnings (accumulated deficit),EDGAR,Numeric,NA
+EDGAR_Revenue,EDGAR,Numeric,NA
+EDGAR_Revenues,EDGAR,Numeric,NA
+EDGAR_Sales,EDGAR,Numeric,NA
+EDGAR_Selling and administrative,EDGAR,Numeric,NA
+EDGAR_Selling and administrative expenses,EDGAR,Numeric,NA
+"EDGAR_Selling, general and administrative",EDGAR,Numeric,NA
+"EDGAR_Selling, general and administrative expenses",EDGAR,Numeric,NA
+EDGAR_Services [Member],EDGAR,Numeric,NA
+EDGAR_Shareholders' Equity,EDGAR,Numeric,NA
+EDGAR_Shareholders' equity attributable to Adient,EDGAR,Numeric,NA
+EDGAR_Shareholders' equity:,EDGAR,Numeric,NA
+EDGAR_Shareholders’ equity attributable to Johnson Controls,EDGAR,Numeric,NA
+EDGAR_Short-term borrowings,EDGAR,Numeric,NA
+EDGAR_Short-term borrowings and current maturities of long-term debt,EDGAR,Numeric,NA
+EDGAR_Short-term debt,EDGAR,Numeric,NA
+EDGAR_Short-term debt (Note 11),EDGAR,Numeric,NA
+EDGAR_Short-term debt and current portion of long-term debt,EDGAR,Numeric,NA
+EDGAR_Short-term investments,EDGAR,Numeric,NA
+EDGAR_Statement of Financial Position [Abstract],EDGAR,Numeric,NA
+EDGAR_Stockholders' equity,EDGAR,Numeric,NA
+EDGAR_Total Aon shareholders' equity,EDGAR,Numeric,NA
+EDGAR_Total Aptiv shareholders' equity,EDGAR,Numeric,NA
+EDGAR_Total assets,EDGAR,Numeric,GEG_T_ASSET
+EDGAR_Total Assets,EDGAR,Numeric,GEG_T_ASSET
+EDGAR_Total current assets,EDGAR,Numeric,NA
+EDGAR_Total Current Assets,EDGAR,Numeric,NA
+EDGAR_Total current liabilities,EDGAR,Numeric,NA
+EDGAR_Total Current Liabilities,EDGAR,Numeric,NA
+EDGAR_Total equity,EDGAR,Numeric,NA
+EDGAR_Total Equity,EDGAR,Numeric,NA
+EDGAR_Total liabilities,EDGAR,Numeric,NA
+EDGAR_Total Liabilities,EDGAR,Numeric,NA
+EDGAR_Total liabilities and equity,EDGAR,Numeric,NA
+EDGAR_Total Liabilities and Equity,EDGAR,Numeric,NA
+EDGAR_Total liabilities and shareholders' equity,EDGAR,Numeric,NA
+EDGAR_Total liabilities and stockholders' equity,EDGAR,Numeric,NA
+EDGAR_Total Linde plc Shareholders’ Equity,EDGAR,Numeric,NA
+EDGAR_Total long-term assets,EDGAR,Numeric,NA
+EDGAR_Total long-term liabilities,EDGAR,Numeric,NA
+EDGAR_Total operating expenses,EDGAR,Numeric,NA
+EDGAR_Total revenue,EDGAR,Numeric,NA
+EDGAR_Total shareholders' equity,EDGAR,Numeric,NA
+EDGAR_Total stockholders' equity,EDGAR,Numeric,NA
+EDGAR_Tour and other,EDGAR,Numeric,NA
+"EDGAR_Trade and other receivables, net",EDGAR,Numeric,NA
+"EDGAR_Treasury stock at cost; 1,701,785 and 2,881,436 shares as of December 31, 2019 and 2018, respectively",EDGAR,Numeric,NA
+"EDGAR_Treasury stock, 130 shares at 2019 and 129 shares at 2018 of Carnival Corporation and 60 shares at 2019 and 48 shares at 2018 of Carnival plc, at cost",EDGAR,Numeric,NA
+"EDGAR_Treasury stock, at cost (2019 - 26,864,793; 2018 - 25,963,004 shares)",EDGAR,Numeric,NA
+EDGAR_Weighted average number of basic shares outstanding,EDGAR,Numeric,NA
+EDGAR_Weighted average number of diluted shares outstanding,EDGAR,Numeric,NA
+EDGAR_Weighted average ordinary shares outstanding - basic (in shares),EDGAR,Numeric,NA
+EDGAR_Weighted average ordinary shares outstanding - diluted (in shares),EDGAR,Numeric,NA
+EDGAR_Weighted Average Shares Outstanding (000’s):,EDGAR,Numeric,NA
+Employees1,General Information,Numeric,LEU_PERS_EMPL
+Employees2,General Information,Numeric,LEU_PERS_EMPL
+Employees3,General Information,Numeric,LEU_PERS_EMPL
+EmployeesYear,General Information,Date,NA
+Endowment,General Information,Numeric,NA
+Equity1,Financials,Numeric,NA
+Equity2,Financials,Numeric,NA
+EquityYear,Financials,Numeric,NA
+EUResearchParticipant,Identifiers,Numeric,NA
+EUTranspReg,Identifiers,Numeric,NA
+EUVAT,General Information,Numeric,NA
+Facebook,Social Networking,Character,NA
+FormationDate,General Information,Date,NA
+FoundationPlace,Various,Character,NA
+FoundComb,Various,Character,NA
+Founders1,Various,Character,NA
+Founders2,Various,Character,NA
+FoundingDate,General Information,Date,NA
+FoundingYear,General Information,Date,NA
+Freebase,Identifiers,Character,NA
+FrenchNatAssLob,Identifiers,Numeric,NA
+GND,Identifiers,Numeric,NA
+GRID,Identifiers,Character,NA
+HAL,Identifiers,Numeric,NA
+HQ1,General Information,Character,LEU_ADDRESS
+HQ2,General Information,Character,LEU_ADDRESS
+HQ3,General Information,Character,LEU_ADDRESS
+HQ4,General Information,Character,LEU_COUNTRY_CODE
+HQ5,General Information,Character,LEU_POSTAL_CODE
+IDREF,Identifiers,Numeric,NA
+Image,Various,Character,NA
+Inactive,General Information,Binary,LEU_STA_CODE
+IncomeYear,Financials,Numeric,NA
+IncorpDate,General Information,Date,LEU_DATE_INC
+Industry1,Operations,Character,NA
+Industry2,Operations,Character,NA
+Industry3,Operations,Character,NA
+Industry4,Operations,Character,NA
+Instagram,Social Networking,Character,NA
+IPODate,General Information,Date,NA
+IPv4Prefix,Identifiers,Numeric,NA
+IPv6Prefix,Identifiers,Numeric,NA
+ISBN,Identifiers,Numeric,NA
+ISIN,Identifiers,Numeric,NA
+ISNI,Identifiers,Numeric,NA
+KeyPeople,Corporate Governance,Character,NA
+KeyPerson,Corporate Governance,Character,NA
+LastUpdate,Various,Date,NA
+Latitude,Various,Numeric,NA
+LegalForm,General Information,Numeric,LEU_LFORM
+LegalJur,General Information,Character,NA
+LegalName,General Information,Character,LEU_NAME
+LEI,Identifiers,Numeric,LEU_LEI
+LibCongAuth,Identifiers,Numeric,NA
+Linkedin,Social Networking,Character,NA
+LittleSis,Identifiers,Numeric,NA
+Location1,General Information,Character,NA
+Location2,General Information,Character,NA
+Location3,General Information,Character,NA
+LogoURL,Various,Character,NA
+Longitude,Various,Numeric,NA
+ManagedBy,General Relationships,Character,NA
+MarketCap,Financials,Numeric,NA
+MarketCapCurrency,Financials,Character,NA
+MIC,General Information,Character,NA
+MSAcademic,Identifiers,Numeric,NA
+Name,General Information,Character,LEU_NAME
+NamedAfter,Various,Character,NA
+NetIncome,Financials,Numeric,NA
+NetIncomeCurrency,Financials,Character,NA
+NetIncomeUnit,Financials,Character,NA
+NetIncomeYear,Financials,Character,NA
+NetProfit,Financials,Numeric,NA
+NetProfitCurrency,Financials,Character,NA
+NKCR,Identifiers,Numeric,NA
+NoOfLocations1,General Information,Numeric,NA
+NoOfLocations2,General Information,Numeric,NA
+NoOfLocationsYear,General Information,Numeric,NA
+NoOfSubscribers,Various,Numeric,NA
+officer.end_date,Corporate Governance,Character,NA
+officer.name,Corporate Governance,Character,NA
+officer.occupation,Corporate Governance,Character,NA
+officer.position,Corporate Governance,Character,NA
+officer.start_date,Corporate Governance,Character,NA
+OpenCorp,Identifiers,Numeric,NA
+OpenCorpNum,Identifiers,Numeric,NA
+OpenCorpURL,Identifiers,Numeric,NA
+OperatingIncome1,Financials,Numeric,NA
+OperatingIncome2,Financials,Numeric,NA
+OSM,Identifiers,Numeric,NA
+OwnedBy1,Corporate Governance,Character,NA
+OwnedBy2,Corporate Governance,Character,NA
+OwnedBy3,Corporate Governance,Character,NA
+OwnerOf,Corporate Governance,Character,NA
+ParentCompany1,Corporate Governance,Character,NA
+ParentCompany2,Corporate Governance,Character,NA
+ParentCompany3,Corporate Governance,Character,NA
+PermID,Identifiers,Numeric,NA
+Pinterest,Social Networking,Character,NA
+PM20,Identifiers,Numeric,NA
+Position,Corporate Governance,Character,NA
+Postal,General Information,Character,LEU_POSTAL_CODE
+Predecessor1,Various,Character,NA
+Predecessor2,Various,Character,NA
+Predecessor3,Various,Character,NA
+ProductionOutput,Operations,Numeric,NA
+Profit,Financials,Numeric,NA
+ProfitCurrency,Financials,Character,NA
+ProfitYear,Financials,Numeric,NA
+Public,General Information,Binary,NA
+QuoraTopic,Social Networking,Character,NA
+RA,General Information,Numeric,NA
+Rating,General Information,Character,NA
+RegionServed,Operations,Character,NA
+RegURL,Various,Character,NA
+ReplacedBy,Corporate Governance,Character,NA
+Revenue1,Financials,Numeric,NA
+Revenue2,Financials,Numeric,NA
+RevenueCurrency,Financials,Numeric,NA
+RevenueYear,Financials,Numeric,NA
+RIC,Identifiers,Numeric,NA
+RingGold,Identifiers,Numeric,NA
+ROR,Identifiers,Numeric,NA
+Services1,Operations,Character,NA
+Services2,Operations,Character,NA
+Services3,Operations,Character,NA
+SignificantEvent,Various,Character,NA
+SignificantPerson,Various,Character,NA
+SIREN,Identifiers,Numeric,NA
+Slogan1,Operations,Character,NA
+Slogan2,Operations,Character,NA
+StartDate,Corporate Governance,Character,NA
+Status,General Information,Character,LEU_STA_CODE
+StockExchange,General Information,Character,NA
+StockMarketIndex,General Information,Character,NA
+StockName,General Information,Character,NA
+StockType,General Information,Character,NA
+Subsidiary,Operations,Character,NA
+Successor,Various,Character,NA
+SWEOrgNo,Identifiers,Numeric,NA
+SwissEnterpriseNumber,Identifiers,Numeric,NA
+Symbol,Various,Character,NA
+Ticker,General Information,Character,NA
+Title,Corporate Governance,Character,NA
+TopicsCat,Identifiers,Character,NA
+TotalAssets,Financials,Numeric,GEG_T_ASSET
+TotalAssetsCurrency,Financials,Numeric,GEG_T_ASSET_CUR_CODE
+TotalDebt,Financials,Numeric,NA
+TotalEquity,Financials,Numeric,NA
+TotalRevenue,Financials,Numeric,NA
+TradingName,Operations,Character,NA
+Twitter,Social Networking,Character,NA
+Type1,General Information,Character,NA
+Type2,General Information,Character,NA
+UKParlThes,Identifiers,Numeric,NA
+URL1,General Information,Character,LEU_WEB
+URL2,General Information,Character,LEU_WEB
+USB,Identifiers,Numeric,NA
+ValidAuth,General Information,Numeric,NA
+ValidStatus,General Information,Character,NA
+VIAF,Identifiers,Numeric,NA
+WikipediaPrimaryTopic,Various,Character,NA
+WorldCat,Identifiers,Numeric,NA
+Youtube,Social Networking,Character,NA
