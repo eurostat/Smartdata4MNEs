@@ -5,6 +5,10 @@ which, obviously, should be replaced with the appropriate user directory.
 Steps 1 to 7 work in a similar manner, i.e. take the output data from Task 2 and try to organise it and cleaning.
 In these steps, the user needs to look close to the data to identify potential fields which can be used as variables.
 This is usually done in lines about 30 to about 70 which is also explained below.
+Then, we manually create the corresponding Varlists files - which can be found in the "Task 3 - Fields CSV" directory.
+Once this is done for the first time we do this, there is no need to do it again.
+So, the researcher who does NOT wish to do this manually, can simply download the varlist files we have available in the appropriate
+directory and reprocude the results.
 
 Step 8 code uses all the above "cleaned" data obtained from Steps 1 to 7 and puts it under a common database.
 
