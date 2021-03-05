@@ -1,7 +1,5 @@
-These are the "manually" created files which indicates which obtained fields from each open source
-can be further used and organised as variables.
+These are the "fields" we have from each source and are needed ONLY in the case
+where one wants to organise the fields in a dataset.
 
 This is a step that is NOT needed to be done every time the user runs the programs.
-For example, one can simply use the supplied .csv files here and never investigate which fields can form variables.
-
-However, for completeness, if one changes these files, could directly change the obtained/organised variables.
+For example, one can simply use the supplied varlist files and never investigate which fields can form variables.
