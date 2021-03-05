@@ -1,0 +1,318 @@
+,Old Value,New Value [If -BLANK- then not used],New Value [If -BLANK- then NA]
+36,Accounts payable,EDGAR_Accounts payable,EDGAR_Accounts payable
+97,Accounts payable and accrued liabilities,EDGAR_Accounts payable and accrued liabilities,EDGAR_Accounts payable and accrued liabilities
+295,Accounts receivable – net,EDGAR_Accounts receivable – net,EDGAR_Accounts receivable – net
+22,"Accounts receivable, less allowance for doubtful accounts of $14 and $15, respectively","EDGAR_Accounts receivable, less allowance for doubtful accounts of $14 and $15, respectively","EDGAR_Accounts receivable, less allowance for doubtful accounts of $14 and $15, respectively"
+259,"Accounts receivable, less allowance for doubtful accounts of $173 and $169, respectively","EDGAR_Accounts receivable, less allowance for doubtful accounts of $173 and $169, respectively","EDGAR_Accounts receivable, less allowance for doubtful accounts of $173 and $169, respectively"
+142,"Accounts receivable, net","EDGAR_Accounts receivable, net","EDGAR_Accounts receivable, net"
+225,"Accounts receivable, net of allowance for doubtful accounts of $18.4 and $17.4, respectively","EDGAR_Accounts receivable, net of allowance for doubtful accounts of $18.4 and $17.4, respectively","EDGAR_Accounts receivable, net of allowance for doubtful accounts of $18.4 and $17.4, respectively"
+37,Accrued compensation and benefits,EDGAR_Accrued compensation and benefits,EDGAR_Accrued compensation and benefits
+156,Accrued liabilities (Note 8),EDGAR_Accrued liabilities (Note 8),EDGAR_Accrued liabilities (Note 8)
+205,Accrued liabilities and other,EDGAR_Accrued liabilities and other,EDGAR_Accrued liabilities and other
+305,Accrued taxes,EDGAR_Accrued taxes,EDGAR_Accrued taxes
+230,AccruedLiabilitiesCurrent,EDGAR_AccruedLiabilitiesCurrent,EDGAR_AccruedLiabilitiesCurrent
+239,Accumulated deficit,EDGAR_Accumulated deficit,EDGAR_Accumulated deficit
+51,Accumulated other comprehensive income (loss),EDGAR_Accumulated other comprehensive income (loss),EDGAR_Accumulated other comprehensive income (loss)
+210,Accumulated other comprehensive income (loss) (“AOCI”),EDGAR_Accumulated other comprehensive income (loss) (“AOCI”),EDGAR_Accumulated other comprehensive income (loss) (“AOCI”)
+109,Accumulated other comprehensive loss,EDGAR_Accumulated other comprehensive loss,EDGAR_Accumulated other comprehensive loss
+168,Accumulated other comprehensive loss (Note 16),EDGAR_Accumulated other comprehensive loss (Note 16),EDGAR_Accumulated other comprehensive loss (Note 16)
+49,Additional paid-in capital,EDGAR_Additional paid-in capital,EDGAR_Additional paid-in capital
+118,Amortization,EDGAR_Amortization,EDGAR_Amortization
+63,Amortization and impairment of intangible assets,EDGAR_Amortization and impairment of intangible assets,EDGAR_Amortization and impairment of intangible assets
+217,Amortization of intangible assets,EDGAR_Amortization of intangible assets,EDGAR_Amortization of intangible assets
+128,Amounts attributable to Aptiv:,EDGAR_Amounts attributable to Aptiv:,EDGAR_Amounts attributable to Aptiv:
+249,"Amounts attributable to Johnson Controls, Inc. common shareholders","EDGAR_Amounts attributable to Johnson Controls, Inc. common shareholders","EDGAR_Amounts attributable to Johnson Controls, Inc. common shareholders"
+20,Assets,EDGAR_Assets,EDGAR_Assets
+30,Assets held for sale,EDGAR_Assets held for sale,EDGAR_Assets held for sale
+185,Basic (in dollars per share),EDGAR_Basic (in dollars per share),EDGAR_Basic (in dollars per share)
+253,Basic earnings per share,EDGAR_Basic earnings per share,EDGAR_Basic earnings per share
+16,Basic earnings per share (in dollars per share),EDGAR_Basic earnings per share (in dollars per share),EDGAR_Basic earnings per share (in dollars per share)
+251,Basic earnings per share from continuing operations,EDGAR_Basic earnings per share from continuing operations,EDGAR_Basic earnings per share from continuing operations
+288,Basic earnings per share from continuing operations (in dollars per share),EDGAR_Basic earnings per share from continuing operations (in dollars per share),EDGAR_Basic earnings per share from continuing operations (in dollars per share)
+252,Basic earnings per share from discontinued operations,EDGAR_Basic earnings per share from discontinued operations,EDGAR_Basic earnings per share from discontinued operations
+289,Basic earnings per share from discontinued operations (in dollars per share),EDGAR_Basic earnings per share from discontinued operations (in dollars per share),EDGAR_Basic earnings per share from discontinued operations (in dollars per share)
+77,Basic net income per share attributable to Aon shareholders,EDGAR_Basic net income per share attributable to Aon shareholders,EDGAR_Basic net income per share attributable to Aon shareholders
+80,Basic net income per share attributable to Aon shareholders (in dollars per share),EDGAR_Basic net income per share attributable to Aon shareholders (in dollars per share),EDGAR_Basic net income per share attributable to Aon shareholders (in dollars per share)
+78,"Basic net income per share attributable to Aon shareholders, continuing operations (in dollars per share)","EDGAR_Basic net income per share attributable to Aon shareholders, continuing operations (in dollars per share)","EDGAR_Basic net income per share attributable to Aon shareholders, continuing operations (in dollars per share)"
+79,"Basic net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)","EDGAR_Basic net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)","EDGAR_Basic net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)"
+133,Basic net income per share attributable to Aptiv,EDGAR_Basic net income per share attributable to Aptiv,EDGAR_Basic net income per share attributable to Aptiv
+130,Basic net income per share:,EDGAR_Basic net income per share:,EDGAR_Basic net income per share:
+293,Basic shares outstanding (in shares),EDGAR_Basic shares outstanding (in shares),EDGAR_Basic shares outstanding (in shares)
+18,Basic shares used in computing earnings per share (in shares),EDGAR_Basic shares used in computing earnings per share (in shares),EDGAR_Basic shares used in computing earnings per share (in shares)
+238,Capital in excess of par value,EDGAR_Capital in excess of par value,EDGAR_Capital in excess of par value
+21,Cash and cash equivalents,EDGAR_Cash and cash equivalents,EDGAR_Cash and cash equivalents
+188,"Commissions, transportation and other","EDGAR_Commissions, transportation and other","EDGAR_Commissions, transportation and other"
+45,Commitments and Contingencies,EDGAR_Commitments and Contingencies,EDGAR_Commitments and Contingencies
+164,Commitments and contingencies (Note 13),EDGAR_Commitments and contingencies (Note 13),EDGAR_Commitments and contingencies (Note 13)
+311,Commitments and contingencies (Note 19),EDGAR_Commitments and contingencies (Note 19),EDGAR_Commitments and contingencies (Note 19)
+235,Commitments and contingencies (Note 20),EDGAR_Commitments and contingencies (Note 20),EDGAR_Commitments and contingencies (Note 20)
+212,Common stock,EDGAR_Common stock,EDGAR_Common stock
+237,"Common stock, $0.01 par value; 1,000,000,000 shares authorized; 206,767,529 and 201,051,291 shares issued as of December 31, 2019 and December 31, 2018, respectively","EDGAR_Common stock, $0.01 par value; 1,000,000,000 shares authorized; 206,767,529 and 201,051,291 shares issued as of December 31, 2019 and December 31, 2018, respectively","EDGAR_Common stock, $0.01 par value; 1,000,000,000 shares authorized; 206,767,529 and 201,051,291 shares issued as of December 31, 2019 and December 31, 2018, respectively"
+59,Compensation and benefits,EDGAR_Compensation and benefits,EDGAR_Compensation and benefits
+214,CONSOLIDATED STATEMENTS OF OPERATIONS [Abstract],EDGAR_CONSOLIDATED STATEMENTS OF OPERATIONS [Abstract],EDGAR_CONSOLIDATED STATEMENTS OF OPERATIONS [Abstract]
+296,Contract assets,EDGAR_Contract assets,EDGAR_Contract assets
+304,Contract liabilities,EDGAR_Contract liabilities,EDGAR_Contract liabilities
+116,Cost of Goods and Services Sold,EDGAR_Cost of Goods and Services Sold,EDGAR_Cost of Goods and Services Sold
+3,Cost of sales,EDGAR_Cost of sales,EDGAR_Cost of sales
+270,"Cost of sales, exclusive of depreciation and amortization","EDGAR_Cost of sales, exclusive of depreciation and amortization","EDGAR_Cost of sales, exclusive of depreciation and amortization"
+272,Cost reduction programs and other charges,EDGAR_Cost reduction programs and other charges,EDGAR_Cost reduction programs and other charges
+171,Cruise,EDGAR_Cruise,EDGAR_Cruise
+187,Cruise and tour,EDGAR_Cruise and tour,EDGAR_Cruise and tour
+195,Cruise onboard and other,EDGAR_Cruise onboard and other,EDGAR_Cruise onboard and other
+194,Cruise passenger ticket,EDGAR_Cruise passenger ticket,EDGAR_Cruise passenger ticket
+25,Current assets,EDGAR_Current assets,EDGAR_Current assets
+197,Current Assets,EDGAR_Current Assets,EDGAR_Current Assets
+140,Current assets:,EDGAR_Current assets:,EDGAR_Current assets:
+40,Current liabilities,EDGAR_Current liabilities,EDGAR_Current liabilities
+203,Current Liabilities,EDGAR_Current Liabilities,EDGAR_Current Liabilities
+154,Current liabilities:,EDGAR_Current liabilities:,EDGAR_Current liabilities:
+35,Current portion of long-term debt,EDGAR_Current portion of long-term debt,EDGAR_Current portion of long-term debt
+206,Customer deposits,EDGAR_Customer deposits,EDGAR_Customer deposits
+309,Deferred credits,EDGAR_Deferred credits,EDGAR_Deferred credits
+233,Deferred income taxes,EDGAR_Deferred income taxes,EDGAR_Deferred income taxes
+262,Deferred revenue,EDGAR_Deferred revenue,EDGAR_Deferred revenue
+94,Deferred tax assets,EDGAR_Deferred tax assets,EDGAR_Deferred tax assets
+102,Deferred tax liabilities,EDGAR_Deferred tax liabilities,EDGAR_Deferred tax liabilities
+173,Depreciation and amortization,EDGAR_Depreciation and amortization,EDGAR_Depreciation and amortization
+62,Depreciation of fixed assets,EDGAR_Depreciation of fixed assets,EDGAR_Depreciation of fixed assets
+186,Diluted (in dollars per share),EDGAR_Diluted (in dollars per share),EDGAR_Diluted (in dollars per share)
+256,Diluted earnings per share,EDGAR_Diluted earnings per share,EDGAR_Diluted earnings per share
+17,Diluted earnings per share (in dollars per share),EDGAR_Diluted earnings per share (in dollars per share),EDGAR_Diluted earnings per share (in dollars per share)
+254,Diluted earnings per share from continuing operations,EDGAR_Diluted earnings per share from continuing operations,EDGAR_Diluted earnings per share from continuing operations
+290,Diluted earnings per share from continuing operations (in dollars per share),EDGAR_Diluted earnings per share from continuing operations (in dollars per share),EDGAR_Diluted earnings per share from continuing operations (in dollars per share)
+255,Diluted earnings per share from discontinued operations,EDGAR_Diluted earnings per share from discontinued operations,EDGAR_Diluted earnings per share from discontinued operations
+291,Diluted earnings per share from discontinued operations (in dollars per share),EDGAR_Diluted earnings per share from discontinued operations (in dollars per share),EDGAR_Diluted earnings per share from discontinued operations (in dollars per share)
+81,Diluted net income per share attributable to Aon shareholders,EDGAR_Diluted net income per share attributable to Aon shareholders,EDGAR_Diluted net income per share attributable to Aon shareholders
+84,Diluted net income per share attributable to Aon shareholders (in dollars per share),EDGAR_Diluted net income per share attributable to Aon shareholders (in dollars per share),EDGAR_Diluted net income per share attributable to Aon shareholders (in dollars per share)
+82,"Diluted net income per share attributable to Aon shareholders, continuing operations (in dollars per share)","EDGAR_Diluted net income per share attributable to Aon shareholders, continuing operations (in dollars per share)","EDGAR_Diluted net income per share attributable to Aon shareholders, continuing operations (in dollars per share)"
+83,"Diluted net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)","EDGAR_Diluted net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)","EDGAR_Diluted net income per share attributable to Aon shareholders, discontinued operations (in dollars per share)"
+138,Diluted net income per share attributable to Aptiv,EDGAR_Diluted net income per share attributable to Aptiv,EDGAR_Diluted net income per share attributable to Aptiv
+135,Diluted net income per share:,EDGAR_Diluted net income per share:,EDGAR_Diluted net income per share:
+294,Diluted shares outstanding (in shares),EDGAR_Diluted shares outstanding (in shares),EDGAR_Diluted shares outstanding (in shares)
+19,Diluted shares used in computing earnings per share (in shares),EDGAR_Diluted shares used in computing earnings per share (in shares),EDGAR_Diluted shares used in computing earnings per share (in shares)
+145,"Disposal Group, Including Discontinued Operation, Assets, Current","EDGAR_Disposal Group, Including Discontinued Operation, Assets, Current","EDGAR_Disposal Group, Including Discontinued Operation, Assets, Current"
+157,"Disposal Group, Including Discontinued Operation, Liabilities, Current","EDGAR_Disposal Group, Including Discontinued Operation, Liabilities, Current","EDGAR_Disposal Group, Including Discontinued Operation, Liabilities, Current"
+8,Earnings (loss) before interest and income taxes,EDGAR_Earnings (loss) before interest and income taxes,EDGAR_Earnings (loss) before interest and income taxes
+184,Earnings Per Share,EDGAR_Earnings Per Share,EDGAR_Earnings Per Share
+250,Earnings per share,EDGAR_Earnings per share,EDGAR_Earnings per share
+106,Equity,EDGAR_Equity,EDGAR_Equity
+244,Equity income,EDGAR_Equity income,EDGAR_Equity income
+7,Equity income (loss),EDGAR_Equity income (loss),EDGAR_Equity income (loss)
+123,"Equity income, net of tax","EDGAR_Equity income, net of tax","EDGAR_Equity income, net of tax"
+300,Equity investments,EDGAR_Equity investments,EDGAR_Equity investments
+58,Expenses,EDGAR_Expenses,EDGAR_Expenses
+89,Fiduciary assets,EDGAR_Fiduciary assets,EDGAR_Fiduciary assets
+99,Fiduciary liabilities,EDGAR_Fiduciary liabilities,EDGAR_Fiduciary liabilities
+92,"Fixed assets, net","EDGAR_Fixed assets, net","EDGAR_Fixed assets, net"
+192,Food,EDGAR_Food,EDGAR_Food
+191,Fuel,EDGAR_Fuel,EDGAR_Fuel
+179,"Gains on fuel derivatives, net","EDGAR_Gains on fuel derivatives, net","EDGAR_Gains on fuel derivatives, net"
+27,Goodwill,EDGAR_Goodwill,EDGAR_Goodwill
+151,Goodwill (Note 7),EDGAR_Goodwill (Note 7),EDGAR_Goodwill (Note 7)
+174,Goodwill and trademark impairment,EDGAR_Goodwill and trademark impairment,EDGAR_Goodwill and trademark impairment
+4,Gross profit,EDGAR_Gross profit,EDGAR_Gross profit
+215,Gross Profit,EDGAR_Gross Profit,EDGAR_Gross Profit
+218,Impairment of other intangible assets,EDGAR_Impairment of other intangible assets,EDGAR_Impairment of other intangible assets
+14,Income (loss) attributable to noncontrolling interests,EDGAR_Income (loss) attributable to noncontrolling interests,EDGAR_Income (loss) attributable to noncontrolling interests
+11,Income (loss) before income taxes,EDGAR_Income (loss) before income taxes,EDGAR_Income (loss) before income taxes
+222,Income (Loss) Before Income Taxes,EDGAR_Income (Loss) Before Income Taxes,EDGAR_Income (Loss) Before Income Taxes
+181,Income Before Income Taxes,EDGAR_Income Before Income Taxes,EDGAR_Income Before Income Taxes
+124,Income from continuing operations,EDGAR_Income from continuing operations,EDGAR_Income from continuing operations
+282,Income From Continuing Operations (Including Noncontrolling Interests),EDGAR_Income From Continuing Operations (Including Noncontrolling Interests),EDGAR_Income From Continuing Operations (Including Noncontrolling Interests)
+246,Income from continuing operations attributable to noncontrolling interests,EDGAR_Income from continuing operations attributable to noncontrolling interests,EDGAR_Income from continuing operations attributable to noncontrolling interests
+122,Income from continuing operations before equity income,EDGAR_Income from continuing operations before equity income,EDGAR_Income from continuing operations before equity income
+280,Income From Continuing Operations Before Equity Investments,EDGAR_Income From Continuing Operations Before Equity Investments,EDGAR_Income From Continuing Operations Before Equity Investments
+70,Income from continuing operations before income taxes,EDGAR_Income from continuing operations before income taxes,EDGAR_Income from continuing operations before income taxes
+121,Income from continuing operations before income taxes and equity income,EDGAR_Income from continuing operations before income taxes and equity income,EDGAR_Income from continuing operations before income taxes and equity income
+278,Income From Continuing Operations Before Income Taxes and Equity Investments,EDGAR_Income From Continuing Operations Before Income Taxes and Equity Investments,EDGAR_Income From Continuing Operations Before Income Taxes and Equity Investments
+131,"Income from continuing operations, per basic share","EDGAR_Income from continuing operations, per basic share","EDGAR_Income from continuing operations, per basic share"
+136,"Income from continuing operations, per diluted share","EDGAR_Income from continuing operations, per diluted share","EDGAR_Income from continuing operations, per diluted share"
+129,Income from discontinued operations,EDGAR_Income from discontinued operations,EDGAR_Income from discontinued operations
+247,Income from discontinued operations attributable to noncontrolling interests,EDGAR_Income from discontinued operations attributable to noncontrolling interests,EDGAR_Income from discontinued operations attributable to noncontrolling interests
+125,"Income from discontinued operations, net of tax","EDGAR_Income from discontinued operations, net of tax","EDGAR_Income from discontinued operations, net of tax"
+245,"Income from discontinued operations, net of tax (Note 3)","EDGAR_Income from discontinued operations, net of tax (Note 3)","EDGAR_Income from discontinued operations, net of tax (Note 3)"
+132,"Income from discontinued operations, per basic share","EDGAR_Income from discontinued operations, per basic share","EDGAR_Income from discontinued operations, per basic share"
+137,"Income from discontinued operations, per diluted share","EDGAR_Income from discontinued operations, per diluted share","EDGAR_Income from discontinued operations, per diluted share"
+281,Income from equity investments,EDGAR_Income from equity investments,EDGAR_Income from equity investments
+113,Income Statement [Abstract],EDGAR_Income Statement [Abstract],EDGAR_Income Statement [Abstract]
+71,Income tax expense,EDGAR_Income tax expense,EDGAR_Income tax expense
+182,"Income Tax Expense, Net","EDGAR_Income Tax Expense, Net","EDGAR_Income Tax Expense, Net"
+12,Income tax provision (benefit),EDGAR_Income tax provision (benefit),EDGAR_Income tax provision (benefit)
+279,Income taxes on continuing operations,EDGAR_Income taxes on continuing operations,EDGAR_Income taxes on continuing operations
+60,Information technology,EDGAR_Information technology,EDGAR_Information technology
+91,"Intangible assets, net","EDGAR_Intangible assets, net","EDGAR_Intangible assets, net"
+150,"Intangible assets, net (Note 7)","EDGAR_Intangible assets, net (Note 7)","EDGAR_Intangible assets, net (Note 7)"
+68,Interest expense,EDGAR_Interest expense,EDGAR_Interest expense
+276,Interest expense – net,EDGAR_Interest expense – net,EDGAR_Interest expense – net
+178,"Interest expense, net of capitalized interest","EDGAR_Interest expense, net of capitalized interest","EDGAR_Interest expense, net of capitalized interest"
+67,Interest income,EDGAR_Interest income,EDGAR_Interest income
+23,Inventories,EDGAR_Inventories,EDGAR_Inventories
+143,Inventories (Note 3),EDGAR_Inventories (Note 3),EDGAR_Inventories (Note 3)
+149,Investments in affiliates,EDGAR_Investments in affiliates,EDGAR_Investments in affiliates
+29,Investments in partially-owned affiliates,EDGAR_Investments in partially-owned affiliates,EDGAR_Investments in partially-owned affiliates
+75,Less: Net income attributable to noncontrolling interests,EDGAR_Less: Net income attributable to noncontrolling interests,EDGAR_Less: Net income attributable to noncontrolling interests
+284,Less: noncontrolling interests from continuing operations,EDGAR_Less: noncontrolling interests from continuing operations,EDGAR_Less: noncontrolling interests from continuing operations
+285,Less: noncontrolling interests from discontinued operations,EDGAR_Less: noncontrolling interests from discontinued operations,EDGAR_Less: noncontrolling interests from discontinued operations
+314,"Less: Treasury stock, at cost (2019 – 17,632,318 shares and 2018 – 4,068,642 shares)","EDGAR_Less: Treasury stock, at cost (2019 – 17,632,318 shares and 2018 – 4,068,642 shares)","EDGAR_Less: Treasury stock, at cost (2019 – 17,632,318 shares and 2018 – 4,068,642 shares)"
+261,Liabilities and Equity,EDGAR_Liabilities and Equity,EDGAR_Liabilities and Equity
+33,Liabilities and Shareholders' Equity,EDGAR_Liabilities and Shareholders' Equity,EDGAR_Liabilities and Shareholders' Equity
+263,Liabilities held for sale,EDGAR_Liabilities held for sale,EDGAR_Liabilities held for sale
+306,Liabilities of assets held for sale,EDGAR_Liabilities of assets held for sale,EDGAR_Liabilities of assets held for sale
+312,Linde plc Shareholders’ Equity:,EDGAR_Linde plc Shareholders’ Equity:,EDGAR_Linde plc Shareholders’ Equity:
+146,Long-term assets:,EDGAR_Long-term assets:,EDGAR_Long-term assets:
+41,Long-term debt,EDGAR_Long-term debt,EDGAR_Long-term debt
+207,Long-Term Debt,EDGAR_Long-Term Debt,EDGAR_Long-Term Debt
+159,Long-term debt (Note 11),EDGAR_Long-term debt (Note 11),EDGAR_Long-term debt (Note 11)
+231,"Long-term debt, less current maturities","EDGAR_Long-term debt, less current maturities","EDGAR_Long-term debt, less current maturities"
+44,Long-term liabilities,EDGAR_Long-term liabilities,EDGAR_Long-term liabilities
+158,Long-term liabilities:,EDGAR_Long-term liabilities:,EDGAR_Long-term liabilities:
+220,Loss on extinguishment of debt,EDGAR_Loss on extinguishment of debt,EDGAR_Loss on extinguishment of debt
+9,Net financing charges,EDGAR_Net financing charges,EDGAR_Net financing charges
+273,Net gain on sale of businesses,EDGAR_Net gain on sale of businesses,EDGAR_Net gain on sale of businesses
+74,Net income,EDGAR_Net income,EDGAR_Net income
+183,Net Income,EDGAR_Net Income,EDGAR_Net Income
+286,Net Income – Linde plc,EDGAR_Net Income – Linde plc,EDGAR_Net Income – Linde plc
+283,Net Income (Including Noncontrolling Interests),EDGAR_Net Income (Including Noncontrolling Interests),EDGAR_Net Income (Including Noncontrolling Interests)
+13,Net income (loss),EDGAR_Net income (loss),EDGAR_Net income (loss)
+15,Net income (loss) attributable to Adient,EDGAR_Net income (loss) attributable to Adient,EDGAR_Net income (loss) attributable to Adient
+73,Net income (loss) from discontinued operations,EDGAR_Net income (loss) from discontinued operations,EDGAR_Net income (loss) from discontinued operations
+76,Net income attributable to Aon shareholders,EDGAR_Net income attributable to Aon shareholders,EDGAR_Net income attributable to Aon shareholders
+127,Net income attributable to Aptiv,EDGAR_Net income attributable to Aptiv,EDGAR_Net income attributable to Aptiv
+224,"Net Income Attributable to Gardner Denver Holdings, Inc.","EDGAR_Net Income Attributable to Gardner Denver Holdings, Inc.","EDGAR_Net Income Attributable to Gardner Denver Holdings, Inc."
+248,Net income attributable to Johnson Controls,EDGAR_Net income attributable to Johnson Controls,EDGAR_Net income attributable to Johnson Controls
+126,Net income attributable to noncontrolling interest,EDGAR_Net income attributable to noncontrolling interest,EDGAR_Net income attributable to noncontrolling interest
+72,Net income from continuing operations,EDGAR_Net income from continuing operations,EDGAR_Net income from continuing operations
+277,"Net pension and OPEB cost (benefit), excluding service cost","EDGAR_Net pension and OPEB cost (benefit), excluding service cost","EDGAR_Net pension and OPEB cost (benefit), excluding service cost"
+2,Net Sales,EDGAR_Net Sales,EDGAR_Net Sales
+243,Net sales,EDGAR_Net sales,EDGAR_Net sales
+170,Noncontrolling interest,EDGAR_Noncontrolling interest,EDGAR_Noncontrolling interest
+53,Noncontrolling interests,EDGAR_Noncontrolling interests,EDGAR_Noncontrolling interests
+260,Noncurrent assets held for sale,EDGAR_Noncurrent assets held for sale,EDGAR_Noncurrent assets held for sale
+264,Noncurrent liabilities held for sale,EDGAR_Noncurrent liabilities held for sale,EDGAR_Noncurrent liabilities held for sale
+101,Non-current operating lease liabilities,EDGAR_Non-current operating lease liabilities,EDGAR_Non-current operating lease liabilities
+177,Nonoperating Income (Expense),EDGAR_Nonoperating Income (Expense),EDGAR_Nonoperating Income (Expense)
+189,Onboard and other,EDGAR_Onboard and other,EDGAR_Onboard and other
+175,Operating costs and expenses,EDGAR_Operating costs and expenses,EDGAR_Operating costs and expenses
+115,Operating expenses:,EDGAR_Operating expenses:,EDGAR_Operating expenses:
+66,Operating income,EDGAR_Operating income,EDGAR_Operating income
+176,Operating Income,EDGAR_Operating Income,EDGAR_Operating Income
+93,Operating lease right-of-use assets,EDGAR_Operating lease right-of-use assets,EDGAR_Operating lease right-of-use assets
+161,"Operating Lease, Liability, Noncurrent","EDGAR_Operating Lease, Liability, Noncurrent","EDGAR_Operating Lease, Liability, Noncurrent"
+148,"Operating Lease, Right-of-Use Asset","EDGAR_Operating Lease, Right-of-Use Asset","EDGAR_Operating Lease, Right-of-Use Asset"
+275,Operating Profit,EDGAR_Operating Profit,EDGAR_Operating Profit
+265,Ordinary A shares,EDGAR_Ordinary A shares,EDGAR_Ordinary A shares
+213,Ordinary shares,EDGAR_Ordinary shares,EDGAR_Ordinary shares
+107,Ordinary shares - $0.01 nominal value Authorized: 750 shares (issued: 2019 - 232.1; 2018 - 240.1),EDGAR_Ordinary shares - $0.01 nominal value Authorized: 750 shares (issued: 2019 - 232.1; 2018 - 240.1),EDGAR_Ordinary shares - $0.01 nominal value Authorized: 750 shares (issued: 2019 - 232.1; 2018 - 240.1)
+313,"Ordinary shares (€0.001 par value, authorized 1,750,000,000 shares, 2019 issued: 552,012,862 ordinary shares; 2018 issued: 551,310,272 ordinary shares)","EDGAR_Ordinary shares (€0.001 par value, authorized 1,750,000,000 shares, 2019 issued: 552,012,862 ordinary shares; 2018 issued: 551,310,272 ordinary shares)","EDGAR_Ordinary shares (€0.001 par value, authorized 1,750,000,000 shares, 2019 issued: 552,012,862 ordinary shares; 2018 issued: 551,310,272 ordinary shares)"
+48,"Ordinary shares issued, par value $0.001; 500,000,000 shares authorized 93,620,714 shares issued and outstanding at September 30, 2019","EDGAR_Ordinary shares issued, par value $0.001; 500,000,000 shares authorized 93,620,714 shares issued and outstanding at September 30, 2019","EDGAR_Ordinary shares issued, par value $0.001; 500,000,000 shares authorized 93,620,714 shares issued and outstanding at September 30, 2019"
+167,"Ordinary shares, $0.01 par value per share, 1,200,000,000 shares authorized, 255,288,240 and 259,991,022 issued and outstanding as of December 31, 2019 and 2018, respectively","EDGAR_Ordinary shares, $0.01 par value per share, 1,200,000,000 shares authorized, 255,288,240 and 259,991,022 issued and outstanding as of December 31, 2019 and 2018, respectively","EDGAR_Ordinary shares, $0.01 par value per share, 1,200,000,000 shares authorized, 255,288,240 and 259,991,022 issued and outstanding as of December 31, 2019 and 2018, respectively"
+202,Other Assets,EDGAR_Other Assets,EDGAR_Other Assets
+228,Other assets,EDGAR_Other assets,EDGAR_Other assets
+24,Other current assets,EDGAR_Other current assets,EDGAR_Other current assets
+144,Other current assets (Note 4),EDGAR_Other current assets (Note 4),EDGAR_Other current assets (Note 4)
+39,Other current liabilities,EDGAR_Other current liabilities,EDGAR_Other current liabilities
+120,"Other expense, net","EDGAR_Other expense, net","EDGAR_Other expense, net"
+64,Other general expense,EDGAR_Other general expense,EDGAR_Other general expense
+69,Other income (expense),EDGAR_Other income (expense),EDGAR_Other income (expense)
+180,"Other income (expense), net","EDGAR_Other income (expense), net","EDGAR_Other income (expense), net"
+274,Other income (expenses) – net,EDGAR_Other income (expenses) – net,EDGAR_Other income (expenses) – net
+221,"Other income, net","EDGAR_Other income, net","EDGAR_Other income, net"
+28,Other intangible assets - net,EDGAR_Other intangible assets - net,EDGAR_Other intangible assets - net
+301,Other intangible assets – net,EDGAR_Other intangible assets – net,EDGAR_Other intangible assets – net
+227,"Other intangible assets, net","EDGAR_Other intangible assets, net","EDGAR_Other intangible assets, net"
+201,Other Intangibles,EDGAR_Other Intangibles,EDGAR_Other Intangibles
+302,Other long-term assets,EDGAR_Other long-term assets,EDGAR_Other long-term assets
+152,Other long-term assets (Note 4),EDGAR_Other long-term assets (Note 4),EDGAR_Other long-term assets (Note 4)
+208,Other Long-Term Liabilities,EDGAR_Other Long-Term Liabilities,EDGAR_Other Long-Term Liabilities
+308,Other long-term liabilities,EDGAR_Other long-term liabilities,EDGAR_Other long-term liabilities
+162,Other long-term liabilities (Note 8),EDGAR_Other long-term liabilities (Note 8),EDGAR_Other long-term liabilities (Note 8)
+31,Other noncurrent assets,EDGAR_Other noncurrent assets,EDGAR_Other noncurrent assets
+96,Other non-current assets,EDGAR_Other non-current assets,EDGAR_Other non-current assets
+43,Other noncurrent liabilities,EDGAR_Other noncurrent liabilities,EDGAR_Other noncurrent liabilities
+104,Other non-current liabilities,EDGAR_Other non-current liabilities,EDGAR_Other non-current liabilities
+219,"Other operating expense, net","EDGAR_Other operating expense, net","EDGAR_Other operating expense, net"
+10,Other pension income (expense),EDGAR_Other pension income (expense),EDGAR_Other pension income (expense)
+193,Other ship operating,EDGAR_Other ship operating,EDGAR_Other ship operating
+234,OtherLiabilitiesNoncurrent,EDGAR_OtherLiabilitiesNoncurrent,EDGAR_OtherLiabilitiesNoncurrent
+190,Payroll and related,EDGAR_Payroll and related,EDGAR_Payroll and related
+42,Pension and postretirement benefits,EDGAR_Pension and postretirement benefits,EDGAR_Pension and postretirement benefits
+160,Pension benefit obligations,EDGAR_Pension benefit obligations,EDGAR_Pension benefit obligations
+103,"Pension, other postretirement, and postemployment liabilities","EDGAR_Pension, other postretirement, and postemployment liabilities","EDGAR_Pension, other postretirement, and postemployment liabilities"
+232,Pensions and other postretirement benefits,EDGAR_Pensions and other postretirement benefits,EDGAR_Pensions and other postretirement benefits
+287,Per Share Data – Linde plc Shareholders,EDGAR_Per Share Data – Linde plc Shareholders,EDGAR_Per Share Data – Linde plc Shareholders
+266,Preferred shares,EDGAR_Preferred shares,EDGAR_Preferred shares
+47,"Preferred shares issued, par value $0.001; 100,000,000 shares authorized zero shares issued and outstanding at September 30, 2019","EDGAR_Preferred shares issued, par value $0.001; 100,000,000 shares authorized zero shares issued and outstanding at September 30, 2019","EDGAR_Preferred shares issued, par value $0.001; 100,000,000 shares authorized zero shares issued and outstanding at September 30, 2019"
+166,"Preferred shares, $0.01 par value per share, 50,000,000 shares authorized, none issued and outstanding","EDGAR_Preferred shares, $0.01 par value per share, 50,000,000 shares authorized, none issued and outstanding","EDGAR_Preferred shares, $0.01 par value per share, 50,000,000 shares authorized, none issued and outstanding"
+61,Premises,EDGAR_Premises,EDGAR_Premises
+297,Prepaid and other current assets,EDGAR_Prepaid and other current assets,EDGAR_Prepaid and other current assets
+199,Prepaid expenses and other,EDGAR_Prepaid expenses and other,EDGAR_Prepaid expenses and other
+95,Prepaid pension,EDGAR_Prepaid pension,EDGAR_Prepaid pension
+257,Products and Systems [Member],EDGAR_Products and Systems [Member],EDGAR_Products and Systems [Member]
+200,"Property and Equipment, Net","EDGAR_Property and Equipment, Net","EDGAR_Property and Equipment, Net"
+147,"Property, net (Note 6)","EDGAR_Property, net (Note 6)","EDGAR_Property, net (Note 6)"
+26,"Property, plant and equipment - net","EDGAR_Property, plant and equipment - net","EDGAR_Property, plant and equipment - net"
+299,"Property, plant and equipment – net","EDGAR_Property, plant and equipment – net","EDGAR_Property, plant and equipment – net"
+226,"Property, plant and equipment, net of accumulated depreciation of $298.4 and $250.0, respectively","EDGAR_Property, plant and equipment, net of accumulated depreciation of $298.4 and $250.0, respectively","EDGAR_Property, plant and equipment, net of accumulated depreciation of $298.4 and $250.0, respectively"
+223,Provision (benefit) for income taxes,EDGAR_Provision (benefit) for income taxes,EDGAR_Provision (benefit) for income taxes
+88,"Receivables, net","EDGAR_Receivables, net","EDGAR_Receivables, net"
+46,Redeemable noncontrolling interests,EDGAR_Redeemable noncontrolling interests,EDGAR_Redeemable noncontrolling interests
+271,Research and development,EDGAR_Research and development,EDGAR_Research and development
+141,Restricted cash,EDGAR_Restricted cash,EDGAR_Restricted cash
+119,Restructuring,EDGAR_Restructuring,EDGAR_Restructuring
+6,Restructuring and impairment costs,EDGAR_Restructuring and impairment costs,EDGAR_Restructuring and impairment costs
+38,Restructuring reserve,EDGAR_Restructuring reserve,EDGAR_Restructuring reserve
+108,Retained earnings,EDGAR_Retained earnings,EDGAR_Retained earnings
+50,Retained earnings (accumulated deficit),EDGAR_Retained earnings (accumulated deficit),EDGAR_Retained earnings (accumulated deficit)
+56,Revenue,EDGAR_Revenue,EDGAR_Revenue
+114,Revenues,EDGAR_Revenues,EDGAR_Revenues
+269,Sales,EDGAR_Sales,EDGAR_Sales
+172,Selling and administrative,EDGAR_Selling and administrative,EDGAR_Selling and administrative
+216,Selling and administrative expenses,EDGAR_Selling and administrative expenses,EDGAR_Selling and administrative expenses
+117,"Selling, general and administrative","EDGAR_Selling, general and administrative","EDGAR_Selling, general and administrative"
+5,"Selling, general and administrative expenses","EDGAR_Selling, general and administrative expenses","EDGAR_Selling, general and administrative expenses"
+258,Services [Member],EDGAR_Services [Member],EDGAR_Services [Member]
+209,Shareholders' Equity,EDGAR_Shareholders' Equity,EDGAR_Shareholders' Equity
+52,Shareholders' equity attributable to Adient,EDGAR_Shareholders' equity attributable to Adient,EDGAR_Shareholders' equity attributable to Adient
+165,Shareholders' equity:,EDGAR_Shareholders' equity:,EDGAR_Shareholders' equity:
+268,Shareholders’ equity attributable to Johnson Controls,EDGAR_Shareholders’ equity attributable to Johnson Controls,EDGAR_Shareholders’ equity attributable to Johnson Controls
+204,Short-term borrowings,EDGAR_Short-term borrowings,EDGAR_Short-term borrowings
+229,Short-term borrowings and current maturities of long-term debt,EDGAR_Short-term borrowings and current maturities of long-term debt,EDGAR_Short-term borrowings and current maturities of long-term debt
+34,Short-term debt,EDGAR_Short-term debt,EDGAR_Short-term debt
+155,Short-term debt (Note 11),EDGAR_Short-term debt (Note 11),EDGAR_Short-term debt (Note 11)
+98,Short-term debt and current portion of long-term debt,EDGAR_Short-term debt and current portion of long-term debt,EDGAR_Short-term debt and current portion of long-term debt
+87,Short-term investments,EDGAR_Short-term investments,EDGAR_Short-term investments
+1,Statement of Financial Position [Abstract],EDGAR_Statement of Financial Position [Abstract],EDGAR_Statement of Financial Position [Abstract]
+236,Stockholders' equity,EDGAR_Stockholders' equity,EDGAR_Stockholders' equity
+110,Total Aon shareholders' equity,EDGAR_Total Aon shareholders' equity,EDGAR_Total Aon shareholders' equity
+169,Total Aptiv shareholders' equity,EDGAR_Total Aptiv shareholders' equity,EDGAR_Total Aptiv shareholders' equity
+32,Total assets,EDGAR_Total assets,EDGAR_Total assets
+303,Total Assets,EDGAR_Total Assets,EDGAR_Total Assets
+90,Total current assets,EDGAR_Total current assets,EDGAR_Total current assets
+298,Total Current Assets,EDGAR_Total Current Assets,EDGAR_Total Current Assets
+100,Total current liabilities,EDGAR_Total current liabilities,EDGAR_Total current liabilities
+307,Total Current Liabilities,EDGAR_Total Current Liabilities,EDGAR_Total Current Liabilities
+111,Total equity,EDGAR_Total equity,EDGAR_Total equity
+316,Total Equity,EDGAR_Total Equity,EDGAR_Total Equity
+105,Total liabilities,EDGAR_Total liabilities,EDGAR_Total liabilities
+310,Total Liabilities,EDGAR_Total Liabilities,EDGAR_Total Liabilities
+112,Total liabilities and equity,EDGAR_Total liabilities and equity,EDGAR_Total liabilities and equity
+317,Total Liabilities and Equity,EDGAR_Total Liabilities and Equity,EDGAR_Total Liabilities and Equity
+55,Total liabilities and shareholders' equity,EDGAR_Total liabilities and shareholders' equity,EDGAR_Total liabilities and shareholders' equity
+242,Total liabilities and stockholders' equity,EDGAR_Total liabilities and stockholders' equity,EDGAR_Total liabilities and stockholders' equity
+315,Total Linde plc Shareholders’ Equity,EDGAR_Total Linde plc Shareholders’ Equity,EDGAR_Total Linde plc Shareholders’ Equity
+153,Total long-term assets,EDGAR_Total long-term assets,EDGAR_Total long-term assets
+163,Total long-term liabilities,EDGAR_Total long-term liabilities,EDGAR_Total long-term liabilities
+65,Total operating expenses,EDGAR_Total operating expenses,EDGAR_Total operating expenses
+57,Total revenue,EDGAR_Total revenue,EDGAR_Total revenue
+54,Total shareholders' equity,EDGAR_Total shareholders' equity,EDGAR_Total shareholders' equity
+241,Total stockholders' equity,EDGAR_Total stockholders' equity,EDGAR_Total stockholders' equity
+196,Tour and other,EDGAR_Tour and other,EDGAR_Tour and other
+198,"Trade and other receivables, net","EDGAR_Trade and other receivables, net","EDGAR_Trade and other receivables, net"
+240,"Treasury stock at cost; 1,701,785 and 2,881,436 shares as of December 31, 2019 and 2018, respectively","EDGAR_Treasury stock at cost; 1,701,785 and 2,881,436 shares as of December 31, 2019 and 2018, respectively","EDGAR_Treasury stock at cost; 1,701,785 and 2,881,436 shares as of December 31, 2019 and 2018, respectively"
+211,"Treasury stock, 130 shares at 2019 and 129 shares at 2018 of Carnival Corporation and 60 shares at 2019 and 48 shares at 2018 of Carnival plc, at cost","EDGAR_Treasury stock, 130 shares at 2019 and 129 shares at 2018 of Carnival Corporation and 60 shares at 2019 and 48 shares at 2018 of Carnival plc, at cost","EDGAR_Treasury stock, 130 shares at 2019 and 129 shares at 2018 of Carnival Corporation and 60 shares at 2019 and 48 shares at 2018 of Carnival plc, at cost"
+267,"Treasury stock, at cost (2019 - 26,864,793; 2018 - 25,963,004 shares)","EDGAR_Treasury stock, at cost (2019 - 26,864,793; 2018 - 25,963,004 shares)","EDGAR_Treasury stock, at cost (2019 - 26,864,793; 2018 - 25,963,004 shares)"
+134,Weighted average number of basic shares outstanding,EDGAR_Weighted average number of basic shares outstanding,EDGAR_Weighted average number of basic shares outstanding
+139,Weighted average number of diluted shares outstanding,EDGAR_Weighted average number of diluted shares outstanding,EDGAR_Weighted average number of diluted shares outstanding
+85,Weighted average ordinary shares outstanding - basic (in shares),EDGAR_Weighted average ordinary shares outstanding - basic (in shares),EDGAR_Weighted average ordinary shares outstanding - basic (in shares)
+86,Weighted average ordinary shares outstanding - diluted (in shares),EDGAR_Weighted average ordinary shares outstanding - diluted (in shares),EDGAR_Weighted average ordinary shares outstanding - diluted (in shares)
+292,Weighted Average Shares Outstanding (000’s):,EDGAR_Weighted Average Shares Outstanding (000’s):,EDGAR_Weighted Average Shares Outstanding (000’s):

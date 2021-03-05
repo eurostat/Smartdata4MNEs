@@ -1,0 +1,286 @@
+,Old Value,New Value [If -BLANK- then not used],New Value [If -BLANK- then NA]
+1,founded by,Founders1,Founders1
+2,owned by,OwnedBy,OwnedBy
+3,logo image,LogoURL,LogoURL
+4,headquarters location,Location1,Location1
+5,chief executive officer,KeyPerson,KeyPerson
+6,country,Country1,Country1
+7,image,Image,Image
+8,business division,BusinessDivision,BusinessDivision
+9,ISNI,ISNI,ISNI
+10,VIAF ID,VIAF,VIAF
+11,GND ID,GND,GND
+12,Library of Congress authority ID,LibCongAuth,LibCongAuth
+13,instance of,Industry1,Industry1
+14,director / manager,Director1,Director1
+15,product or material produced,Industry2,Industry2
+16,employees,Employees,Employees
+17,topic's main Wikimedia portal,,NA
+18,Legal Entity Identifier,LEI,LEI
+19,Encyclopædia Britannica Online ID,Brittanica,Brittanica
+20,legal form,Type1,Type1
+21,owner of,OwnerOf,OwnerOf
+22,different from,,NA
+23,total revenue,TotalRevenue,TotalRevenue
+24,Museum of Modern Art artist ID,,NA
+25,market capitalization,MarketCap,MarketCap
+26,net profit,NetProfit,NetProfit
+27,total assets,TotalAssets,TotalAssets
+28,GRID ID,GRID,GRID
+29,ISO 9362 SWIFT/BIC code,BIC,BIC
+30,EU Transparency Register ID,EUTranspReg,EUTranspReg
+31,Bibliothèque nationale de France ID,BiblNatFranc,BiblNatFranc
+32,IdRef ID,IDREF,IDREF
+33,ISBN publisher prefix,ISBN,ISBN
+34,NE.se ID,,NA
+35,board member,KeyPeople,KeyPeople
+36,PermID,PermID,PermID
+37,operating income,OperatingIncome1,OperatingIncome1
+38,LittleSis organization ID,LittleSis,LittleSis
+39,Quora topic ID,QuoraTopic,QuoraTopic
+40,Ringgold ID,RingGold,RingGold
+41,subsidiary,Subsidiary,Subsidiary
+42,part of,StockMarketIndex,StockMarketIndex
+43,Commons category,CommonsCat,CommonsCat
+44,ITU/ISO/IEC object identifier,,NA
+45,IPv4 routing prefix,IPv4Prefix,IPv4Prefix
+46,IPv6 routing prefix,IPv6Prefix,IPv6Prefix
+47,stock exchange,StockExchange,StockExchange
+48,PM20 folder ID,PM20,PM20
+49,Store norske leksikon ID,,NA
+50,industry,Industry3,Industry3
+51,UK Parliament thesaurus ID,UKParlThes,UKParlThes
+52,member of,Affiliation,Affiliation
+53,Brockhaus Enzyklopädie online ID,Brockhaus,Brockhaus
+54,inception,FoundingDate,FoundingDate
+55,EU Research participant ID,EUResearchParticipant,EUResearchParticipant
+56,Microsoft Academic ID,MSAcademic,MSAcademic
+57,Freebase ID,Freebase,Freebase
+58,HAL structure ID,HAL,HAL
+59,ROR ID,ROR,ROR
+60,location of formation,FoundationPlace,FoundationPlace
+61,WorldCat Identities ID,WorldCat,WorldCat
+62,significant event,SignificantEvent,SignificantEvent
+63,official website,URL1,URL1
+64,topic's main category,TopicsCat,TopicsCat
+65,ISIN,ISIN,ISIN
+66,OpenCorporates ID,OpenCorp,OpenCorp
+67,Twitter username,Twitter,Twitter
+68,Instagram username,Instagram,Instagram
+69,chairperson,Chairperson,Chairperson
+70,award received,Award,Award
+71,replaces,Predecessor1,Predecessor1
+72,motto text,Slogan1,Slogan1
+73,Facebook ID,Facebook,Facebook
+74,BabelNet ID,,NA
+75,EU VAT number,EUVAT,EUVAT
+76,OSM Name Suggestion Index identifier,OSM,OSM
+77,described at URL,CompanyHistory,CompanyHistory
+78,follows,AssociatedWith,AssociatedWith
+79,official name,Name,Name
+80,YouTube channel ID,Youtube,Youtube
+81,employer,,NA
+82,ACM Classification Code (2012),,NA
+83,NKCR AUT ID,NKCR,NKCR
+84,CVR number,,NA
+85,Commons gallery,,NA
+86,CANTIC ID,,NA
+87,SELIBR ID,,NA
+88,Companies House ID,CompaniesHouse,CompaniesHouse
+89,subclass of,,NA
+90,Guardian topic ID,,NA
+91,Pinterest username,Pinterest,Pinterest
+92,PersonalData.IO ID,,NA
+93,named after,NamedAfter,NamedAfter
+94,USB vendor ID,USB,USB
+95,Gran Enciclopèdia Catalana ID,CatalanaEncyc,CatalanaEncyc
+96,NLA Trove ID,,NA
+97,GitHub username,,NA
+98,Crossref funder ID,CrossRef,CrossRef
+99,National Diet Library ID,,NA
+100,public key fingerprint,,NA
+101,LinkedIn company ID,Linkedin,Linkedin
+102,compArt institution ID,,NA
+103,MAC Address Block Large ID,,NA
+104,has works in the collection,ArtworkInCollection,ArtworkInCollection
+105,Hrvatska enciklopedija ID,,NA
+106,Museen Dresden article ID,,NA
+107,MusicBrainz label ID,,NA
+108,ticker symbol,,NA
+109,short name,,NA
+110,country of origin,,NA
+111,Swedish Organization Number,SWEOrgNo,SWEOrgNo
+112,SIREN number,SIREN,SIREN
+113,total debt,TotalDebt,TotalDebt
+114,French National Assembly Lobbyist ID,FrenchNatAssLob,FrenchNatAssLob
+115,significant person,SignificantPerson,SignificantPerson
+116,total equity,TotalEquity,TotalEquity
+117,KvK company ID,,NA
+118,archives at,,NA
+119,described by source,,NA
+120,place name sign,,NA
+121,history of topic,,NA
+122,Google+ ID,,NA
+123,Flickr user ID,,NA
+124,SNAC Ark ID,,NA
+125,Tumblr username,,NA
+126,supervisory board member,BoardMembers,BoardMembers
+127,WordLift URL,,NA
+128,NMVW id,,NA
+129,HDS ID,,NA
+130,brand,Brand,Brand
+131,Great Russian Encyclopedia Online ID,,NA
+132,KBpedia ID,,NA
+133,field of work,Industry4,Industry4
+134,XING company ID,,NA
+135,Banglapedia (Bengali version) ID,,NA
+136,BBC News topic ID,,NA
+137,Downdetector ID,,NA
+138,has part,,NA
+139,BoardGameGeek game publisher ID,,NA
+140,topic's main template,,NA
+141,autonomous system number,,NA
+142,MAVISE company ID,,NA
+143,SoundCloud ID,,NA
+144,British Museum person or institution ID,,NA
+145,JORFSearch organization ID,,NA
+146,parent organization,ParentCompany,ParentCompany
+147,French Vikidia ID,,NA
+148,operating area,AreaServed,AreaServed
+149,SIRET number,,NA
+150,Corporate Number (Japan),,NA
+151,OmegaWiki Defined Meaning,,NA
+152,New York Times topic ID,,NA
+153,Dagens Nyheter topic ID,,NA
+154,CoBiS author ID,,NA
+155,NUKAT ID,,NA
+156,Name Assigning Authority Number,,NA
+157,Snapchat username,,NA
+158,number of branches,NoOfLocations1,NoOfLocations1
+159,Giphy username,,NA
+160,WhatDoTheyKnow organisation ID,,NA
+161,located in the administrative territorial entity,,NA
+162,Enterprise number (Belgium),,NA
+163,openMLOL author ID,,NA
+164,Wolfram Language entity code,,NA
+165,street address,,NA
+166,Energy Identification Code,,NA
+167,Alexa rank,,NA
+168,ResearchGate institute ID,,NA
+169,pronunciation audio,,NA
+170,data.gouv.fr organisation ID,,NA
+171,number of subscribers,NoOfSubscribers,NoOfSubscribers
+172,endowment,Endowment,Endowment
+173,PRELIB organization ID,,NA
+174,assets under management,AssetsUnderManagement,AssetsUnderManagement
+175,category for employees of the organization,,NA
+176,BaFin Institute ID,BaFinInstitute,BaFinInstitute
+177,official blog,Blog,Blog
+178,native label,,NA
+179,Libraries Australia ID,,NA
+180,airline hub,,NA
+181,airline alliance,,NA
+182,item operated,,NA
+183,IATA airline designator,,NA
+184,ICAO airline designator,,NA
+185,house publication,,NA
+186,Zhihu topic ID,,NA
+187,Sina Weibo user ID,,NA
+188,callsign of airline,,NA
+189,reward program,,NA
+190,Merchant Category Code,,NA
+191,said to be the same as,,NA
+192,Trustpilot company ID,,NA
+193,flight-report.com Airline identifier,,NA
+194,airline accounting code,,NA
+195,Models.com client ID,,NA
+196,De Agostini ID,,NA
+197,WMI code,,NA
+198,IRS Employer Identification Number,,NA
+199,SHARE Catalogue author ID,,NA
+200,Bloomberg company ID,,NA
+201,Great Aragonese Encyclopedia ID,,NA
+202,Encyclopedia of Australian Science ID,,NA
+203,Open Library ID,,NA
+204,Portuguese National Library ID,,NA
+205,BIBSYS ID,,NA
+206,HelveticArchives ID,,NA
+207,phone number,,NA
+208,LNB ID,,NA
+209,Canadiana Authorities ID,,NA
+210,NLP ID (unique),,NA
+211,CiNii author ID (books),,NA
+212,Minitel code,,NA
+213,fax number,,NA
+214,RERO ID,,NA
+215,ManualsLib brand ID,,NA
+216,mascot,,NA
+217,National Library of Israel ID,,NA
+218,Biblioteca Nacional de España ID,,NA
+219,participant in,,NA
+220,LB.ua dossier ID,,NA
+221,on focus list of Wikimedia project,,NA
+222,Crunchbase organization ID,,NA
+223,Tate artist ID,,NA
+224,ARCHON code,,NA
+225,Central Index Key,,NA
+226,IPA transcription,,NA
+227,followed by,,NA
+228,Omni topic ID,,NA
+229,Uppsala University Alvin ID,,NA
+230,Vaccine Ontology ID,,NA
+231,Te Papa agent ID,,NA
+232,The Times of India topic ID,,NA
+233,flag image,,NA
+234,hashtag,,NA
+235,e-mail address,,NA
+236,World Travel Awards ID,,NA
+237,MNopedia ID,,NA
+238,Swiss Enterprise Identification Number,SwissEnterpriseNumber,SwissEnterpriseNumber
+239,archINFORM person or group ID,,NA
+240,Stack Exchange tag,,NA
+241,FAST ID,,NA
+242,common equity tier 1 capital ratio (CETI),,NA
+243,charter URL,,NA
+244,Nationalmuseum Sweden artist ID,,NA
+245,Boijmans artist ID,,NA
+246,SVT Open archive,,NA
+247,uses,,NA
+248,detail map,,NA
+249,Open Library subject ID,,NA
+250,Dagens Næringsliv topic ID,,NA
+251,Science Museum people ID,,NA
+252,located on street,,NA
+253,replaced by,ReplacedBy,ReplacedBy
+254,"dissolved, abolished or demolished",,NA
+255,Hungarian company ID,,NA
+256,National Library of Greece ID,,NA
+257,Google Knowledge Graph ID,,NA
+258,Cultureel Woordenboek ID,,NA
+259,YCBA agent ID,,NA
+260,MusicBrainz artist ID,,NA
+261,RIA Novosti reference,,NA
+262,OpenSecrets organization ID,,NA
+263,Thomson Reuters Business Classification,,NA
+264,represents,,NA
+265,Songkick artist ID,,NA
+266,Academy Awards Database nominee ID,,NA
+267,Who's on First ID,,NA
+268,Rotterdam City Archives actor ID,,NA
+269,Firmenbuchnummer,,NA
+270,location,,NA
+271,Encyclopædia Universalis ID,,NA
+272,Australian Business Number,,NA
+273,Australian Registered Body Number,,NA
+274,Treccani ID,,NA
+275,Treccani's Enciclopedia Italiana ID,,NA
+276,Radio Radicale organizer ID,,NA
+277,Larousse ID,,NA
+278,catchphrase,Slogan2,Slogan2
+279,Union List of Artist Names ID,,NA
+280,Finnish national bibliography corporate name ID,,NA
+281,ARTIC artist ID,,NA
+282,Philadelphia Museum of Art entity ID,,NA
+283,category's main topic,,NA
+284,spoken text audio,,NA
+285,MIC market code,,NA

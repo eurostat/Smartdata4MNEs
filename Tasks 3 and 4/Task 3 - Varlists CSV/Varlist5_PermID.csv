@@ -1,0 +1,23 @@
+,Old Value,New Value [If -BLANK- then not used],New Value [If -BLANK- then NA]
+1,PermID,PermID,PermID
+2,Public,Public,Public
+3,Status,Status,Status
+4,Inactive Date,,NA
+5,IPO Date,IPODate,IPODate
+6,LEI,LEI,LEI
+7,Primary Industry,Industry1,Industry1
+8,Primary Business Sector,Industry2,Industry2
+9,Primary Economic Sector,Industry3,Industry3
+10,Domiciled In,LegalJur,LegalJur
+11,Incorporated In,Country1,Country1
+12,Website,URL1,URL1
+13,HQ Address,,NA
+14,HQ Phone,,NA
+15,Registered Address,,NA
+16,Registered Phone,,NA
+17,Instrument Name,StockName,StockName
+18,Instrument Type,StockType,StockType
+19,RIC,RIC,RIC
+20,Ticker,Ticker,Ticker
+21,MIC,MIC,MIC
+22,Exchange,StockExchange,StockExchange
